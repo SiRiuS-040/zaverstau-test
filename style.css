@@ -62,7 +62,7 @@ li {
 
 .header {
   background: #f2eebf;
-  background-image: url(/img/header-main.jpg);
+  background-image: url(img/header-main.jpg);
   background-position: 0 0;
   background-size: cover;
   background-repeat: no-repeat;
@@ -108,7 +108,7 @@ li {
 
 .logo::before {
   content: "";
-  background-image: url(/img/logo.svg);
+  background-image: url(img/logo.svg);
   background-repeat: no-repeat;
   background-position: center center;
   width: 25px;
@@ -371,7 +371,7 @@ li {
 .our-works-btn__2::after {
   padding-left: 10px;
   content: "";
-  background-image: url(/img/Arrow-right.svg);
+  background-image: url(img/Arrow-right.svg);
   background-repeat: no-repeat;
   background-position: center center;
   width: 60px;
@@ -552,7 +552,7 @@ li {
   text-align: center;
   background: var(--rosedust);
   display: inline-block;
-  background-image: url(/img/Arrow\ 2-right.svg); /* https://pics.freeicons.io/uploads/icons/png/5937647761558965372-512.png */
+  background-image: url(img/Arrow\ 2-right.svg); /* https://pics.freeicons.io/uploads/icons/png/5937647761558965372-512.png */
   background-position: center;
   background-size: 32px;
   background-repeat: no-repeat;
