@@ -67,7 +67,10 @@ li {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 715px;
+  min-width: 1210px; /* ДЛЯ МОБИЛОК?!?! */
 }
+
+/*                    */
 
 .header__navigation {
   display: flex;
@@ -153,6 +156,7 @@ li {
 
 .main {
   background: var(--purefrost);
+  min-width: 1210px; /* ДЛЯ МОБИЛОК?!?! */
 }
 .about-us {
   margin: 0;
@@ -703,6 +707,7 @@ input[type="tel"]::-moz-placeholder {
 
 .footer {
   background: var(--purefrost);
+  min-width: 1210px; /* ДЛЯ МОБИЛОК?!?! */
 }
 
 .contacts {
