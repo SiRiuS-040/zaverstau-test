@@ -67,7 +67,7 @@ li {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 715px;
-  min-width: 1210px; /* ДЛЯ МОБИЛОК?!?! */
+  min-width: 1200px; /* ДЛЯ МОБИЛОК?!?! */
 }
 
 /*                    */
@@ -707,7 +707,7 @@ input[type="tel"]::-moz-placeholder {
 
 .footer {
   background: var(--purefrost);
-  min-width: 1210px; /* ДЛЯ МОБИЛОК?!?! */
+  min-width: 1200px; /* ДЛЯ МОБИЛОК?!?! */
 }
 
 .contacts {
