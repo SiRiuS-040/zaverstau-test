@@ -67,7 +67,8 @@ li {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 715px;
-  min-width: 1200px; /* ДЛЯ МОБИЛОК?!?! */
+  min-width: 1210px;
+  /* ДЛЯ МОБИЛОК?!?! */
 }
 
 /*                    */
@@ -401,7 +402,6 @@ li {
   font-size: 40px;
   font-weight: 400;
   line-height: 50px;
-  letter-spacing: 0em;
 }
 
 .our-team__list {
@@ -425,6 +425,7 @@ li {
 .cards__text {
   padding-bottom: 10px;
   text-align: left;
+  max-height: 180px;
 }
 
 /* НАША КОМАНДА конец */
@@ -482,6 +483,7 @@ li {
 .how-we-work-text {
   padding-top: 20px;
   min-height: 120px;
+  max-height: 180px;
 }
 
 /* КАК МЫ РАБОТАЕМ конец */
@@ -707,7 +709,7 @@ input[type="tel"]::-moz-placeholder {
 
 .footer {
   background: var(--purefrost);
-  min-width: 1200px; /* ДЛЯ МОБИЛОК?!?! */
+  min-width: 1210px; /* ДЛЯ МОБИЛОК?!?! */
 }
 
 .contacts {
