@@ -177,7 +177,7 @@ li {
 }
 
 .section-about-us {
-  padding: 0 72px 21px 72px;
+  padding: 0 82px 21px 82px;
   display: flex;
   justify-content: space-between;
 }
@@ -256,6 +256,7 @@ li {
   flex-wrap: wrap;
   padding-top: 40px; /* 40 */
   padding-bottom: 0px;
+  line-height: 0; /* &&&&&&&& */
 }
 
 .object-1__hover {
@@ -406,7 +407,7 @@ li {
 
 .our-team__list {
   margin: 0;
-  padding: 0 72px 0 72px;
+  padding: 0 82px 0 82px;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -508,9 +509,9 @@ li {
 
 .review__sliders {
   margin: 0;
-  padding: 40px 71px 65px 71px;
+  padding: 40px 82px 65px 82px;
   display: grid;
-  grid-template-columns: 72px 1fr 72px;
+  grid-template-columns: 70px 1fr 70px;
   justify-content: space-between;
   align-items: center;
 }
@@ -595,8 +596,8 @@ li {
 .request__box {
   padding: 0;
   margin: 0;
-  padding-left: 71px;
-  padding-right: 20px;
+  padding-left: 81px;
+  padding-right: 0px;
 }
 
 .request__title {
@@ -651,7 +652,7 @@ li {
 .request__form__tel {
   margin-top: 35px;
   padding-bottom: 3px;
-  width: 508px;
+  width: 98%;
   background: var(--bitterbriar);
 }
 
@@ -736,4 +737,3 @@ input[type="tel"]::-moz-placeholder {
   padding-left: auto;
   color: var(--blood-mahogany);
 }
-
